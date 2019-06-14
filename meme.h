@@ -15,6 +15,7 @@
 #define rightnt(a,b) a << b
 #define pointernt(a) *a
 
+#define yeet throw
 #define ever (;;) //for ever
 
 #ifdef __linux__
